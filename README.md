@@ -18,7 +18,8 @@ The work is organized across six modules, each building on the previous one.
 .
 ├── notebooks/          # Jupyter notebooks (Python)
 ├── assets/             # Dashboard screenshots (Cognos)
-├── data/               # Local datasets — not tracked (see Data section below)
+├── data/               # Local datasets, not tracked (see Data section below)
+├── presentation/       # PDF file summarizing the overall hands-on-lab results
 └── LICENSE
 ```
 
@@ -26,7 +27,7 @@ The work is organized across six modules, each building on the previous one.
 
 ## Modules
 
-### Module 1 — Data Collection
+### Module 1: Data Collection
 
 | Notebook | Description |
 |---|---|
@@ -37,7 +38,7 @@ The work is organized across six modules, each building on the previous one.
 
 ---
 
-### Module 2 — Data Wrangling
+### Module 2: Data Wrangling
 
 | Notebook | Description |
 |---|---|
@@ -48,7 +49,7 @@ The work is organized across six modules, each building on the previous one.
 
 ---
 
-### Module 3 — Exploratory Data Analysis
+### Module 3: Exploratory Data Analysis
 
 | Notebook | Description |
 |---|---|
@@ -66,7 +67,7 @@ The work is organized across six modules, each building on the previous one.
 
 ---
 
-### Module 4 — Data Visualization (Python)
+### Module 4: Data Visualization (Python)
 
 | Notebook | Description |
 |---|---|
@@ -82,7 +83,7 @@ Covers: language popularity, compensation distributions, remote work preferences
 
 ---
 
-### Module 5 — Excel Analytics
+### Module 5: Excel Analytics
 
 Hands-on labs using Microsoft Excel:
 
@@ -96,7 +97,7 @@ Hands-on labs using Microsoft Excel:
 
 ---
 
-### Module 6 — Cognos Analytics Dashboards
+### Module 6: Cognos Analytics Dashboards
 
 Interactive dashboards built in IBM Cognos Analytics (v11+). The final capstone dashboard covers three tabs: current technology usage, future trends, and developer demographics.
 
