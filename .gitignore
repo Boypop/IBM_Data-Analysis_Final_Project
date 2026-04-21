@@ -1,0 +1,22 @@
+# Datasets — too large for git, distributed via GitHub Releases
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated notebook outputs
+job-postings.xlsx
+job-postings-2.xlsx
+cleaned_analyzed_dataset.csv
+
+# OS
+.DS_Store
+Thumbs.db
